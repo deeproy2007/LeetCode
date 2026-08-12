@@ -8,4 +8,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/deeproy2007/LeetCode/tree/master/0178-rank-scores) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/deeproy2007/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0185-department-top-three-salaries](https://github.com/deeproy2007/LeetCode/tree/master/0185-department-top-three-salaries) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/deeproy2007/LeetCode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/deeproy2007/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
