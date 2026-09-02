@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/deeproy2007/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/deeproy2007/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/deeproy2007/LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/deeproy2007/LeetCode/tree/master/0283-move-zeroes) |
 | [1470-shuffle-the-array](https://github.com/deeproy2007/LeetCode/tree/master/1470-shuffle-the-array) |
 ## Hash Table
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/deeproy2007/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/deeproy2007/LeetCode/tree/master/0283-move-zeroes) |
 ## Bucket Sort
 |  |
 | ------- |
