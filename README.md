@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/deeproy2007/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/deeproy2007/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/deeproy2007/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0500-keyboard-row](https://github.com/deeproy2007/LeetCode/tree/master/0500-keyboard-row) |
 | [1470-shuffle-the-array](https://github.com/deeproy2007/LeetCode/tree/master/1470-shuffle-the-array) |
 ## Hash Table
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/deeproy2007/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/deeproy2007/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/deeproy2007/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0500-keyboard-row](https://github.com/deeproy2007/LeetCode/tree/master/0500-keyboard-row) |
 ## Sorting
 |  |
 | ------- |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/deeproy2007/LeetCode/tree/master/0164-maximum-gap) |
+## String
+|  |
+| ------- |
+| [0500-keyboard-row](https://github.com/deeproy2007/LeetCode/tree/master/0500-keyboard-row) |
 <!---LeetCode Topics End-->
