@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/deeproy2007/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/deeproy2007/LeetCode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/deeproy2007/LeetCode/tree/master/0575-distribute-candies) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/deeproy2007/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deeproy2007/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/deeproy2007/LeetCode/tree/master/1470-shuffle-the-array) |
 ## Hash Table
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/deeproy2007/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0500-keyboard-row](https://github.com/deeproy2007/LeetCode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/deeproy2007/LeetCode/tree/master/0575-distribute-candies) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/deeproy2007/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Sorting
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0500-keyboard-row](https://github.com/deeproy2007/LeetCode/tree/master/0500-keyboard-row) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/deeproy2007/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
