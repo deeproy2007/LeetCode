@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/deeproy2007/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/deeproy2007/LeetCode/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/deeproy2007/LeetCode/tree/master/0185-department-top-three-salaries) |
+| [0511-game-play-analysis-i](https://github.com/deeproy2007/LeetCode/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/deeproy2007/LeetCode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/deeproy2007/LeetCode/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/deeproy2007/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
