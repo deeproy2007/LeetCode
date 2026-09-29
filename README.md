@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/deeproy2007/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/deeproy2007/LeetCode/tree/master/0015-3sum) |
 | [0054-spiral-matrix](https://github.com/deeproy2007/LeetCode/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/deeproy2007/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/deeproy2007/LeetCode/tree/master/0066-plus-one) |
 | [0119-pascals-triangle-ii](https://github.com/deeproy2007/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deeproy2007/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/deeproy2007/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0119-pascals-triangle-ii](https://github.com/deeproy2007/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deeproy2007/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Math
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/deeproy2007/LeetCode/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/deeproy2007/LeetCode/tree/master/0064-minimum-path-sum) |
 ## Simulation
 |  |
 | ------- |
