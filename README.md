@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/deeproy2007/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/deeproy2007/LeetCode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/deeproy2007/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/deeproy2007/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/deeproy2007/LeetCode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/deeproy2007/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/deeproy2007/LeetCode/tree/master/0066-plus-one) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/deeproy2007/LeetCode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/deeproy2007/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/deeproy2007/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/deeproy2007/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/deeproy2007/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/deeproy2007/LeetCode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/deeproy2007/LeetCode/tree/master/0049-group-anagrams) |
 | [0164-maximum-gap](https://github.com/deeproy2007/LeetCode/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/deeproy2007/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/deeproy2007/LeetCode/tree/master/0268-missing-number) |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/deeproy2007/LeetCode/tree/master/0049-group-anagrams) |
 | [0500-keyboard-row](https://github.com/deeproy2007/LeetCode/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/deeproy2007/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Heap (Priority Queue)
