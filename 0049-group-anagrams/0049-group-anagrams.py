@@ -24,25 +24,4 @@ class Solution:
         return list(anagram_map.values())
 
 
-# --- Local Test Engine (Optional Code for your IDE) ---
-if __name__ == "__main__":
-    # Create an instance of the class
-    solver = Solution()
-    
-    # Test Case 1: Standard Example
-    test_input1 = ["eat", "tea", "tan", "ate", "nat", "bat"]
-    output1 = solver.groupAnagrams(test_input1)
-    print(f"Input:  {test_input1}")
-    print(f"Output: {output1}\n")
-    
-    # Test Case 2: Empty String
-    test_input2 = [""]
-    output2 = solver.groupAnagrams(test_input2)
-    print(f"Input:  {test_input2}")
-    print(f"Output: {output2}\n")
-    
-    # Test Case 3: Single Character
-    test_input3 = ["a"]
-    output3 = solver.groupAnagrams(test_input3)
-    print(f"Input:  {test_input3}")
-    print(f"Output: {output3}")
+
