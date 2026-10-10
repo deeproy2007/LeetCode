@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/deeproy2007/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deeproy2007/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/deeproy2007/LeetCode/tree/master/1470-shuffle-the-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/deeproy2007/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/deeproy2007/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/deeproy2007/LeetCode/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deeproy2007/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/deeproy2007/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/deeproy2007/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/deeproy2007/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/deeproy2007/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/deeproy2007/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0506-relative-ranks](https://github.com/deeproy2007/LeetCode/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deeproy2007/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/deeproy2007/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Matrix
 |  |
 | ------- |
@@ -177,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/deeproy2007/LeetCode/tree/master/0020-valid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/deeproy2007/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
