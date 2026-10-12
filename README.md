@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/deeproy2007/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/deeproy2007/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/deeproy2007/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/deeproy2007/LeetCode/tree/master/0078-subsets) |
 | [0119-pascals-triangle-ii](https://github.com/deeproy2007/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deeproy2007/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/deeproy2007/LeetCode/tree/master/0136-single-number) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/deeproy2007/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/deeproy2007/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/deeproy2007/LeetCode/tree/master/0268-missing-number) |
 ## Binary Search
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/deeproy2007/LeetCode/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/deeproy2007/LeetCode/tree/master/0078-subsets) |
 ## Bracket Sequences
 |  |
 | ------- |
