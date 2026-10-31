@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/deeproy2007/LeetCode/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/deeproy2007/LeetCode/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/deeproy2007/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0724-find-pivot-index](https://github.com/deeproy2007/LeetCode/tree/master/0724-find-pivot-index) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deeproy2007/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/deeproy2007/LeetCode/tree/master/1470-shuffle-the-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/deeproy2007/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/deeproy2007/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/deeproy2007/LeetCode/tree/master/0724-find-pivot-index) |
 ## Manacher
 |  |
 | ------- |
